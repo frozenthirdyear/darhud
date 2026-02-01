@@ -340,6 +340,82 @@ Scheme
 				}
 			}
 		}
+		
+		BorderFreshGreen
+		{
+			"inset" "0 0 1 1"
+			Left
+			{
+				"1"
+				{
+					"color" "FreshGreen"
+					"offset" "0 0"
+				}				
+				"2"
+				{
+					"color" "FreshGreen"
+					"offset" "0 0"
+				}				
+				"3"
+				{
+					"color" "FreshGreen"
+					"offset" "0 0"
+				}				
+				"4"
+				{
+					"color" "FreshGreen"
+					"offset" "0 0"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "FreshGreen"
+					"offset" "1 0"
+				}				
+				"2"
+				{
+					"color" "FreshGreen"
+					"offset" "1 0"
+				}				
+				"3"
+				{
+					"color" "FreshGreen"
+					"offset" "1 0"
+				}				
+				"4"
+				{
+					"color" "FreshGreen"
+					"offset" "1 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "FreshGreen"
+					"offset" "0 0"
+				}				
+				"2"
+				{
+					"color" "FreshGreen"
+					"offset" "0 0"
+				}				
+				"3"
+				{
+					"color" "FreshGreen"
+					"offset" "0 0"
+				}				
+				"4"
+				{
+					"color" "FreshGreen"
+					"offset" "0 0"
+				}
+			}
+		}
 
 
 	

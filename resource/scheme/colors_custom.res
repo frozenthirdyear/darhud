@@ -2,13 +2,24 @@ Scheme
 {	
 	Colors
 	{
+		//Custom
+		"SteelBlue"		"69 89 105 255"
+		"DarkBlue"		"23 58 94 255"
+		"LightBlue"		"66 125 189 255"
+		"SkyBlue"		"141 171 201 255"
+		"Feldgrau"		"77 94 75 255"
+		"DeepGreen"		"75, 156, 79 255"
+		"FreshGreen"	"123 171 116 255"
+		"DarkGreyNeutral"	"50 50 50 255"
+		"DarkGreyBlue"		"40 45 50 255"
+	
 		//In-Game elements		
 		
 		//General
 		//Will be used by most elements of the hud, so try to choose some readable colors. Or not, i'm not your parent
-		"GeneralLabel"			"235 226 202 255"
+		"GeneralLabel"			"235 235 235 255"
 		"GeneralShadow"		"0 0 0 240"
-		"GeneralBackground"	"0 0 0 192"
+		"GeneralBackground"	"50 50 50 192"
 
 		"HUDBlueTeam"		"73 108 132 127"
 		"HUDRedTeam"		"162 47 47 127"
@@ -19,8 +30,8 @@ Scheme
 		"HealthNormal"	"235 226 202 255"
 		"HealthShadow" 	"0 0 0 240"
 		"HealthWarning"		"255 0 0 255"
-		"MaxHealth"		"235 226 202 255"		
-		"HealthGain"		"0 202 133 255"	//Also used when the uber is ready
+		"MaxHealth"		"235 226 202 200"		
+		"HealthGain"		"0 202 50 255"	//Also used when the uber is ready
 		"HealthLow"			"255 230 0 255"
 
 		////Ammo
@@ -57,41 +68,38 @@ Scheme
 		//Menus
 
 		////Main Menu
-		"BackgroundDefault"	"31 31 31 255"
+		"BackgroundDefault"	"50 50 50 255"
 		"BackgroundTransparent"	"0 0 0 220"
 		"TransparentStripe"		"0 0 0 235"
 
-		"MainMenuLabel"			"235 226 202 255"
+		"MainMenuLabel"			"235 235 235 255"
 
 
 
 		//Backpack and co
-		"FooterColor"		"20 20 20 255"
+		"FooterColor"		"30 30 30 255"
 
 
 
 		////Buttons
 
 		//Main Menu
-		"ButtonMM"		"140 43 43 255"
-		"ButtonLabelMM"	"235 226 202 255"
+		"ButtonMM"		"141 171 201 255"
+		"ButtonLabelMM"	"235 235 235 255"
 		"ButtonMMShadow"	"10 10 10 200"
 
-		"ButtonArmedMM"		"194 52 52 255" //Used when you hover over a button
-		"ButtonLabelArmedMM"	"235 235 235 255"
+		"ButtonArmedMM"		"66 125 189 255" //Used when you hover over a button
+		"ButtonLabelArmedMM"	"245 245 245 255"
 		
 		//Default
-		"ButtonDefault"		"60 60 60 255"
-		"ButtonLabelDefault"	"235 226 202 255"
+		"ButtonDefault"		"42 63 82 255"
+		"ButtonLabelDefault"	"235 235 235 255"
 
-		"ButtonArmed"		"178 82 22 255" //Used when you hover over a button
-		"ButtonLabelArmed"	"235 235 235 255"
-
-
-		"ButtonArmedHovering"	"178 82 22 128" //Used when you hover over a selected button
+		"ButtonArmed"		"66 125 189 255" //Used when you hover over a button
+		"ButtonLabelArmed"	"245 245 245 255"
+		
+		"ButtonArmedHovering"	"123 171 116 128" //Used when you hover over a selected button
 		"ButtonLabelArmedHovering"	"235 235 235 255"
-
-
 
 		//Others
 		"ConfirmColor" "20 20 20 255"

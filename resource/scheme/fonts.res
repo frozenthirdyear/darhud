@@ -32,7 +32,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Verdana"
 				"tall"		"13"
 				"weight"	"700"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -146,7 +146,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Verdana"
 				"tall"		"11"
 				"weight"	"700"
 				"additive"	"0"
@@ -930,7 +930,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Verdana"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -1635,16 +1635,16 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
-				"tall"		"12"
-				"weight"	"700"
+				"name"		"Verdana"
+				"tall"		"15"
+				"weight"	"600"
 				"yres"		"480 599"
 				"dropshadow"	"1"
 			}
 			"2"
 			{
 				"name"		"Verdana"
-				"tall"		"13"
+				"tall"		"16"
 				"weight"	"700"
 				"yres"		"600 767"
 				"dropshadow"	"1"
@@ -1652,7 +1652,7 @@ Scheme
 			"3"
 			{
 				"name"		"Verdana"
-				"tall"		"14"
+				"tall"		"18"
 				"weight"	"700"
 				"yres"		"768 1023"
 				"dropshadow"	"1"

@@ -14,9 +14,9 @@
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"BackgroundDefault"
-		"infocus_bgcolor_override" "BackgroundDefault"
-		"outoffocus_bgcolor_override" "BackgroundDefault"
+		"bgcolor_override"	"DarkGreyNeutral"
+		"infocus_bgcolor_override" "DarkGreyNeutral"
+		"outoffocus_bgcolor_override" "DarkGreyNeutral"
 
 		"item_xpos_offcenter_a"	"-310"
 		"item_xpos_offcenter_b"	"165"
@@ -173,7 +173,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "LightBlue"
 	}
 	"ClassLabel"
 	{

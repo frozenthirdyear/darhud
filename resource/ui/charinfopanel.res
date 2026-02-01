@@ -41,7 +41,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"replay/thumbnails/mainmenu/striped_pattern"
-		"drawcolor"		"BackgroundDefault"
+		"drawcolor"		"SteelBlue"
 		"tileImage"		"1"
 	}	
 
@@ -56,7 +56,7 @@
 		"tall"			"60"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"FooterColor"
+		"bgcolor_override"	"SteelBlue"
 	}
 
 	"FooterLine"
@@ -70,7 +70,7 @@
 		"tall"			"2"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"ButtonArmed"
+		"bgcolor_override"	"FreshGreen"
 		"scaleImage"	"1"
 	}				
 	
@@ -96,7 +96,7 @@
 			"tall"			"2"
 			"visible"		"1"
 			"enabled"		"1"
-			"bgcolor_override"	"ButtonArmed"
+			"bgcolor_override"	"FreshGreen"
 			"scaleImage"	"1"
 		}			
 		
@@ -106,12 +106,14 @@
 			"font"				"HudFontMediumSmallBold"
 			"selectedcolor"		"ButtonLabelArmed"
 			"unselectedcolor"	"ButtonLabelDefault"	
-			"defaultBgColor_override"	"BackgroundDefault"
+			"defaultBgColor_override"	"DarkGreyNeutral"
+			"armedBgColor_override" "FreshGreen"
+			"depressedBgColor_override" "DarkBlue"
 			"paintbackground"	"1"
 			"paintBorder"	"1"
 			"paintbackgroundtype" 	"2"
 			"RoundedCorners"	"3"
-			"activeborder_override"	"SelectedTabBorder"
+			"activeborder_override"	"BorderFreshGreen"
 			"normalborder_override" "NoBorder"
 		}
 	}
@@ -139,6 +141,10 @@
 		"Command"		"back"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
+		
+		"defaultBgColor_override" "SkyBlue"
+		"armedBgColor_override" "LightBlue"
+		"depressedBgColor_override" "DarkBlue"
 	}		
 	
 	"NotificationsPresentPanel"
@@ -152,5 +158,28 @@
 		"tall"			"50"
 		"visible"		"0"
 		"enabled"		"1"
+	}
+	
+	"BackButtonQKey"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"BackButtonQKey"
+		"xpos"			"-9999"
+		"ypos"			"-9999"
+		"zpos"			"-9999"
+		"wide"			"0"
+		"tall"			"0"
+		"autoResize"	"0"
+		"pinCorner"		"3"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"labelText"		"&Q"
+		"font"			"HudFontSmallBold"
+		"textAlignment"	"center"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"default"		"0"
+		"Command"		"back"
 	}
 }

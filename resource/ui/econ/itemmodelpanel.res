@@ -40,10 +40,11 @@
 		"fieldName"		"MainContentsContainer"
 		"xpos"			"0"
 		"ypos"			"0"
+		"zpos"			"0"
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"1"
-		"bgcolor_override"		"0 0 0 0"
+		"bgcolor_override"		"0 0 0 128"
 
 		"itemmodelpanel"
 		{
@@ -59,7 +60,8 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"useparentbg"		"1"
+			"useparentbg"		"0"
+			"bgcolor_override"		"60 60 60 255"
 		
 			"inset_eq_x"	"2"
 			"inset_eq_y"	"2"

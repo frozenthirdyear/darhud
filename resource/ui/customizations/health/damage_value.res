@@ -14,7 +14,7 @@
 		"enabled"				"1"
 		"labelText"				"%metal%"
 		"textAlignment"			"west"
-		"font"					"HudFontMediumBigBold"
+		"font"					"HudFontMediumBig"
 		"fgcolor"				"HealthLow"
 	}
 }

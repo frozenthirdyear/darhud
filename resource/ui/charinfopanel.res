@@ -114,7 +114,7 @@
 			"paintbackgroundtype" 	"2"
 			"RoundedCorners"	"3"
 			"activeborder_override"	"BorderFreshGreen"
-			"normalborder_override" "NoBorder"
+			"normalborder_override" "BorderSteelBlue"
 		}
 	}
 	

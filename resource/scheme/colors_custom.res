@@ -31,8 +31,8 @@ Scheme
 		"HealthShadow" 	"0 0 0 240"
 		"HealthWarning"		"255 0 0 255"
 		"MaxHealth"		"235 226 202 200"		
-		"HealthGain"		"0 202 50 255"	//Also used when the uber is ready
-		"HealthLow"			"255 230 0 255"
+		"HealthGain"		"20 240 50 255"	//Also used when the uber is ready
+		"HealthLow"			"255 0 0 255"
 
 		////Ammo
 		"AmmoNormal" 	"235 226 202 255"

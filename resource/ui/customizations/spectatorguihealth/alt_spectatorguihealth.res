@@ -63,7 +63,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontMediumSmallBold"
 		"fgcolor"		"HealthNormal"
 		"proportionaltoparent"	"1"
 	}
@@ -84,7 +84,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontMediumSmallBold"
 		"fgcolor"		"HealthShadow"
 		"proportionaltoparent"	"1"
 	}

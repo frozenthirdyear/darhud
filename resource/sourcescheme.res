@@ -206,7 +206,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Verdana"
 				"tall"		"16"
 				"weight"	"500"
 				"antialias" "1"
@@ -226,7 +226,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Verdana"
 				"tall"		"14"
 				"weight"	"500"
 				"antialias" "1"
@@ -248,7 +248,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Verdana"
 				"tall"		"6"
 				"weight"	"500"
 				"additive"	"0"

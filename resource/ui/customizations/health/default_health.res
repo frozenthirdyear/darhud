@@ -46,7 +46,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"image"			"replay/thumbnails/overhealcross"
-		"drawcolor"		"HealthGain"
+		"drawcolor"		"HealthNormal"
 		"alpha"			"0"
 	}
 

@@ -7,10 +7,10 @@
 		"fieldName"		"HudPlayerHealth"
 		"xpos"			"00"
 		"ypos"			"r118"
-		"xpos_minmode"			"c-360"
+		"xpos_minmode"			"c-300"
 		"ypos_minmode"			"c40"
 		"zpos"			"2"
-		"wide"			"300"
+		"wide"			"260"
 		"tall"			"130"
 		"visible"		"1"
 		"enabled"		"1"	
@@ -46,7 +46,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"image"			"replay/thumbnails/overhealcross"
-		"drawcolor"		"HealthNormal"
+		"drawcolor"		"HealthNormalVanilla"
 		"alpha"			"0"
 	}
 
@@ -71,7 +71,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"146"
+		"xpos"			"151"
 		"ypos"			"33"
 		"zpos"			"2"
 		"wide"			"52"
@@ -88,7 +88,7 @@
 		"pin_to_sibling" "PlayerStatusHealthImageBG"
 		"pin_corner_to_sibling" "PIN_CENTER_LEFT"
 		"pin_to_sibling_corner" "PIN_CENTER_RIGHT"
-		"xpos"			"-40"
+		"xpos"			"-35"
 		"ypos"			"0"
 		"zpos"			"11"
 		"wide"			"155"
@@ -98,7 +98,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
 		"font"			"HudFontGiantBold"
-		"fgcolor"		"HealthNormal"
+		"fgcolor"		"HealthNormalVanilla"
 	}
 	"PlayerStatusHealthValueShadow"
 	{

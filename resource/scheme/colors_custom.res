@@ -12,6 +12,9 @@ Scheme
 		"FreshGreen"	"123 171 116 255"
 		"DarkGreyNeutral"	"50 50 50 255"
 		"DarkGreyBlue"		"40 45 50 255"
+		
+		"HealthNormalVanilla"		"235 226 202 255"
+		"HealthNormalDark"		"135 126 102 255"
 	
 		//In-Game elements		
 		
@@ -32,7 +35,7 @@ Scheme
 		"HealthWarning"		"255 0 0 255"
 		"MaxHealth"		"235 226 202 200"		
 		"HealthGain"		"20 240 50 255"	//Also used when the uber is ready
-		"HealthLow"			"255 0 0 255"
+		"HealthLow"			"255 255 0 255"
 
 		////Ammo
 		"AmmoNormal" 	"235 226 202 255"

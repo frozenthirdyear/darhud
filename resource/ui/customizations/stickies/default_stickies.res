@@ -155,7 +155,7 @@
 			"tall"			"0"
 			"autoResize"	"1"
 			"pinCorner"		"2"
-			"visible"		"1"
+			"visible"		"0"
 			"enabled"		"0"
 			"tabPosition"	"0"
 			"labelText"		"%activepipes%"

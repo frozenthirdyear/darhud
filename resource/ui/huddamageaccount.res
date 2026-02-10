@@ -10,9 +10,9 @@
 		"text_y"				"0"
 		"delta_item_end_y"		"0"
 		"PositiveColor"			"HealthGain"
-		"NegativeColor"			"255 0 0 255"
+		"NegativeColor"			"255 255 0 255"
 		"delta_lifetime"		"2"
-		"delta_item_font"		"HudFontMedium"
+		"delta_item_font"		"ScoreboardMedium"
 		"delta_item_font_big"	"HudFontMediumBold"
 	}
 }

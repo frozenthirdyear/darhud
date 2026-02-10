@@ -42,7 +42,7 @@
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 		"RoundedCorners"	"0"
-		"font"			"HudFontSmall"
+		"font"			"Default"
 		
 		"bgcolor_override"	"0 0 0 50"
 

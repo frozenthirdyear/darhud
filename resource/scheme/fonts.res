@@ -25,7 +25,7 @@ Scheme
 			"2"
 			{
 				"name"		"Verdana"
-				"tall"		"12"
+				"tall"		"13"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"600 768"
@@ -33,7 +33,7 @@ Scheme
 			"3"
 			{
 				"name"		"Verdana"
-				"tall"		"13"
+				"tall"		"15"
 				"weight"	"700"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"769 1023"
@@ -148,7 +148,7 @@ Scheme
 			{
 				"name"		"Verdana"
 				"tall"		"11"
-				"weight"	"700"
+				"weight"	"650"
 				"additive"	"0"
 				"antialias" "1"
 			}

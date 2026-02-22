@@ -7,7 +7,7 @@
 		"visible" 		"1"
 		"enabled" 		"1"
 		"xpos"			"20"
-		"ypos"			"c-160"
+		"ypos"			"c-170"
 		"wide"	 		"300"
 		"tall"	 		"140"
 		"PaintBackgroundType" "0"
@@ -24,7 +24,7 @@
 		"xpos"			"5"
 		"ypos"			"375"
 		"wide"	 		"290"
-		"tall"	 		"4"
+		"tall"	 		"8"
 		"PaintBackgroundType"	"0"
 	}
 
@@ -59,7 +59,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"	 		"300"
-		"tall"			"120"
+		"tall"			"75"
 		"wrap"			"1"
 		"autoResize"		"1"
 		"pinCorner"		"1"

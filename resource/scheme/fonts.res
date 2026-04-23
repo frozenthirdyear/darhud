@@ -1698,7 +1698,7 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"		"18"
+				"tall"		"20"
 				"weight"	"600"
 				"yres"		"480 599"
 				"dropshadow"	"1"
@@ -1706,7 +1706,7 @@ Scheme
 			"2"
 			{
 				"name"		"Verdana"
-				"tall"		"18"
+				"tall"		"24"
 				"weight"	"600"
 				"yres"		"600 767"
 				"dropshadow"	"1"
@@ -1714,7 +1714,7 @@ Scheme
 			"3"
 			{
 				"name"		"Verdana"
-				"tall"		"18"
+				"tall"		"26"
 				"weight"	"600"
 				"yres"		"768 1023"
 				"dropshadow"	"1"
@@ -1722,7 +1722,7 @@ Scheme
 			"4"
 			{
 				"name"		"Verdana"
-				"tall"		"20"
+				"tall"		"28"
 				"weight"	"600"
 				"yres"		"1024 1199"
 				"dropshadow"	"1"
@@ -1730,7 +1730,7 @@ Scheme
 			"5"
 			{
 				"name"		"Verdana"
-				"tall"		"24"
+				"tall"		"30"
 				"weight"	"600"
 				"yres"		"1200 10000"
 				"dropshadow"	"1"
